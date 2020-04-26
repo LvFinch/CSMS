@@ -1,5 +1,6 @@
 # CSMS
-<center> **Course Selection Management System For Students**
+**Course Selection Management System For Students**
+
 
 | 登录信息 |        |
 | -------- | ------ |
